@@ -1,6 +1,6 @@
 # Scrum Review Meeting Guidelines
 
-## Each Tean Member Must Answer The Following Three Questions
+## Each Team Member Must Answer The Following Three Questions
 What did you accomplish since the last meeting?
 
 What are you working on until the next meeting?
